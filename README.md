@@ -1,2 +1,2 @@
-# api
-The official itslaunchtime API!
+# itslaunchtime API
+[Read the docs](https://itslaunchti.me/api)
